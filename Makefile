@@ -1,2 +1,5 @@
 build:
-	docker build . --tag planck-linux:alpha5
+	docker build . --tag mindreframer/planck-linux:alpha5
+
+push:
+	docker push mindreframer/planck-linux:alpha5

@@ -5,4 +5,4 @@
 
 ## Usage:
     $ make build
-    $ docker run -it --rm  planck-linux:alpha5
+    $ docker run -it --rm  mindreframer/planck-linux:alpha5
